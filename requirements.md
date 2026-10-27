@@ -12,6 +12,7 @@ As a resident, I want to be able to search for specific parks so that I can find
 
 ### Actors
 Citizens and residents of Bristol
+
 Website User
 
 ### Use Cases
@@ -21,9 +22,10 @@ TODO: Describe each use case (at least one per team member).
 
 | TODO: USE-CASE ID e.g. UC1, UC2, ... | TODO: USE-CASE NAME | 
 | -------------------------------------- | ------------------- |
-| **Description** | TODO: Goal to be achieved by use case and sources for requirement |
-| **Actors** | TODO: List of actors involved in use case |
-| **Assumptions** | TODO: Pre/post-conditions if any</td></tr>
+| **Description** | Users should be able to search, browse and filter parks and green spaces in Bristol |
+| **Actors** | Residents of Bristol, Website user |
+| **Assumptions** | Information about Bristol parks is available from a suitable data source.
+The website is accessible to the user</td></tr>
 | **Steps** | TODO: Interactions between actors and system necessary to achieve goal |
 | **Variations** | TODO: OPTIONAL - Any variations in the steps of a use case |
 | **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
