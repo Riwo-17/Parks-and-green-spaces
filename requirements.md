@@ -24,12 +24,11 @@ TODO: Describe each use case (at least one per team member).
 | -------------------------------------- | ------------------- |
 | **Description** | Users should be able to search, browse and filter parks and green spaces in Bristol |
 | **Actors** | Residents of Bristol, Website user |
-| **Assumptions** | Information about Bristol parks is available from a suitable data source.
-The website is accessible to the user</td></tr>
-| **Steps** | TODO: Interactions between actors and system necessary to achieve goal |
-| **Variations** | TODO: OPTIONAL - Any variations in the steps of a use case |
-| **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
-| **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
+| **Assumptions** | Information about Bristol parks is available from a suitable data source, The website is accessible to the user, a list of Bristol parks is displayed to the user.</td></tr>
+| **Steps** |The user opens the website and uses filters or searches for the park or area based off their preference |
+| **Variations** | If information cannot be found, the system will tell the user that information is unavailable |
+| **Non-functional** | TODO: OPTIONAL - Easy navigation |
+| **Issues** | Confirm the data source that will provide the park information. |
 
 
 TODO: Your Use-Case diagram should include all use-cases.
